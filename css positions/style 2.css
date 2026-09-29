@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    /* background-color: gray; */
+    background-image: url("image/pexels-timelockz-2827000-4367584.jpg");
+    background-size: cover;
+}
+
+.planet {
+    /* border: 2px solid blue; */
+    position: relative;
+    width: 300px;
+    left: 480px;
+    top: 250px;
+}
+
+.saturn {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 120px;
+    right: 80px;
+    margin-right: 200px;
+    /* margin-bottom: 80% ; */
+    /* top: 200px; */
+    bottom: 280px;
+}
+
+.mercury {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 80px;
+    right: 150px;
+    margin-right: 150px;
+    /* margin-bottom: 80% ; */
+    /* top: 200px; */
+    bottom: 350px;
+}
+
+.earth {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 60px;
+    right: 40%;
+    /* margin-right: 50%; */
+    bottom: 500px;
+}
+
+.venus {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 60px;
+    right: 80%;
+    /* margin-right: 30px; */
+    bottom: 455px;
+}
+
+.mars {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 60px;
+    left: 200px;
+    margin-right: 70%;
+    bottom: 480px;
+}
+
+.jupiter {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 60px;
+    left: 250px;
+    margin-right: 70%;
+    bottom: 400px;
+}
+
+.uranus {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 32px;
+    left: 250px;
+    /* margin-right: 70%; */
+    bottom: 300px;
+}
+
+.Neptune {
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width: 60px;
+    left: 250px;
+    margin-right: 70%;
+    bottom: 300px;
+}

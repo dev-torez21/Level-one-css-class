@@ -1,0 +1,15 @@
+.para{
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: blueviolet; */
+    border: 2px solid blueviolet;
+    /* padding: 100px 50px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.testing{
+    border: 2px solid rebeccapurple;
+    height: 100px;
+    background-color: rgba(255, 0, 0,.2);
+
+}
